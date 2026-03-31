@@ -10,7 +10,6 @@ An AI-powered Roblox scripting assistant that runs **100% locally and for free**
 |-------------|--------------------------------|
 |`init.lua`   |The Roblox Studio plugin itself |
 |`proxy.js`   |Node.js bridge server (required)|
-|`plugin.json`|Plugin metadata                 |
 
 -----
 
